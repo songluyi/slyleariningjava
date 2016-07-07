@@ -56,4 +56,4 @@ public class PrimitiveTypeTest {
         System.out.println("最大值：Character.MAX_VALUE="
                 + (int) Character.MAX_VALUE);
     }
-}  
+}
